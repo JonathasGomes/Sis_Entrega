@@ -1,0 +1,40 @@
+D:\SENAC\CURSOS TÉCNICOS\TÉC INFORMÁTICA\Projetos\SIS_ENTREGA\Sis_Entrega\Sis_Entrega\bin\Debug\Sis_Entrega.exe.config
+D:\SENAC\CURSOS TÉCNICOS\TÉC INFORMÁTICA\Projetos\SIS_ENTREGA\Sis_Entrega\Sis_Entrega\bin\Debug\Sis_Entrega.exe
+D:\SENAC\CURSOS TÉCNICOS\TÉC INFORMÁTICA\Projetos\SIS_ENTREGA\Sis_Entrega\Sis_Entrega\bin\Debug\Sis_Entrega.pdb
+D:\SENAC\CURSOS TÉCNICOS\TÉC INFORMÁTICA\Projetos\SIS_ENTREGA\Sis_Entrega\Sis_Entrega\obj\Debug\Sis_Entrega.csprojAssemblyReference.cache
+D:\SENAC\CURSOS TÉCNICOS\TÉC INFORMÁTICA\Projetos\SIS_ENTREGA\Sis_Entrega\Sis_Entrega\obj\Debug\Sis_Entrega.Properties.Resources.resources
+D:\SENAC\CURSOS TÉCNICOS\TÉC INFORMÁTICA\Projetos\SIS_ENTREGA\Sis_Entrega\Sis_Entrega\obj\Debug\Sis_Entrega.csproj.GenerateResource.cache
+D:\SENAC\CURSOS TÉCNICOS\TÉC INFORMÁTICA\Projetos\SIS_ENTREGA\Sis_Entrega\Sis_Entrega\obj\Debug\Sis_Entrega.csproj.CoreCompileInputs.cache
+D:\SENAC\CURSOS TÉCNICOS\TÉC INFORMÁTICA\Projetos\SIS_ENTREGA\Sis_Entrega\Sis_Entrega\obj\Debug\Sis_Entrega.exe
+D:\SENAC\CURSOS TÉCNICOS\TÉC INFORMÁTICA\Projetos\SIS_ENTREGA\Sis_Entrega\Sis_Entrega\obj\Debug\Sis_Entrega.pdb
+D:\SENAC\CURSOS TÉCNICOS\TÉC INFORMÁTICA\Projetos\SIS_ENTREGA\Sis_Entrega\Sis_Entrega\bin\Debug\BD_SIS_ENTREGA.mdf
+D:\SENAC\CURSOS TÉCNICOS\TÉC INFORMÁTICA\Projetos\SIS_ENTREGA\Sis_Entrega\Sis_Entrega\bin\Debug\BD_SIS_ENTREGA_log.ldf
+D:\SENAC\CURSOS TÉCNICOS\TÉC INFORMÁTICA\Projetos\SIS_ENTREGA\Sis_Entrega\Sis_Entrega\obj\Debug\Sis_Entrega.Form1.resources
+D:\1 - SENAC\3 - CURSOS\TÉCNICOS\PROJETOS ATUAIS\SIS_ENTREGA\Sis_Entrega\Sis_Entrega\obj\Debug\Sis_Entrega.csprojAssemblyReference.cache
+D:\1 - SENAC\3 - CURSOS\TÉCNICOS\PROJETOS ATUAIS\SIS_ENTREGA\Sis_Entrega\Sis_Entrega\obj\Debug\Sis_Entrega.Form1.resources
+D:\1 - SENAC\3 - CURSOS\TÉCNICOS\PROJETOS ATUAIS\SIS_ENTREGA\Sis_Entrega\Sis_Entrega\obj\Debug\Sis_Entrega.Properties.Resources.resources
+D:\1 - SENAC\3 - CURSOS\TÉCNICOS\PROJETOS ATUAIS\SIS_ENTREGA\Sis_Entrega\Sis_Entrega\obj\Debug\Sis_Entrega.csproj.GenerateResource.cache
+D:\1 - SENAC\3 - CURSOS\TÉCNICOS\PROJETOS ATUAIS\SIS_ENTREGA\Sis_Entrega\Sis_Entrega\obj\Debug\Sis_Entrega.csproj.CoreCompileInputs.cache
+D:\1 - SENAC\3 - CURSOS\TÉCNICOS\PROJETOS ATUAIS\SIS_ENTREGA\Sis_Entrega\Sis_Entrega\obj\Debug\Sis_Entrega.exe
+D:\1 - SENAC\3 - CURSOS\TÉCNICOS\PROJETOS ATUAIS\SIS_ENTREGA\Sis_Entrega\Sis_Entrega\obj\Debug\Sis_Entrega.pdb
+D:\1 - SENAC\3 - CURSOS\TÉCNICOS\PROJETOS ATUAIS\SIS_ENTREGA\Sis_Entrega\Sis_Entrega\bin\Debug\BD_SIS_ENTREGA.mdf
+D:\1 - SENAC\3 - CURSOS\TÉCNICOS\PROJETOS ATUAIS\SIS_ENTREGA\Sis_Entrega\Sis_Entrega\bin\Debug\BD_SIS_ENTREGA_log.ldf
+D:\1 - SENAC\3 - CURSOS\TÉCNICOS\PROJETOS ATUAIS\SIS_ENTREGA\Sis_Entrega\Sis_Entrega\bin\Debug\Sis_Entrega.exe.config
+D:\1 - SENAC\3 - CURSOS\TÉCNICOS\PROJETOS ATUAIS\SIS_ENTREGA\Sis_Entrega\Sis_Entrega\bin\Debug\Sis_Entrega.exe
+D:\1 - SENAC\3 - CURSOS\TÉCNICOS\PROJETOS ATUAIS\SIS_ENTREGA\Sis_Entrega\Sis_Entrega\bin\Debug\Sis_Entrega.pdb
+D:\1 - SENAC\3 - CURSOS\TÉCNICOS\PROJETOS ATUAIS\SIS_ENTREGA\Sis_Entrega\Sis_Entrega\obj\Debug\Sis_Entrega.frm_Cliente.resources
+D:\1 - SENAC\3 - CURSOS\TÉCNICOS\PROJETOS ATUAIS\SIS_ENTREGA\Sis_Entrega\Sis_Entrega\obj\Debug\Sis_Entrega.frm_Produto.resources
+C:\Users\lucca\Downloads\SIS_ENTREGA\SIS_ENTREGA\Sis_Entrega\Sis_Entrega\bin\Debug\BD_SIS_ENTREGA.mdf
+C:\Users\lucca\Downloads\SIS_ENTREGA\SIS_ENTREGA\Sis_Entrega\Sis_Entrega\bin\Debug\BD_SIS_ENTREGA_log.ldf
+C:\Users\lucca\Downloads\SIS_ENTREGA\SIS_ENTREGA\Sis_Entrega\Sis_Entrega\bin\Debug\Sis_Entrega.exe.config
+C:\Users\lucca\Downloads\SIS_ENTREGA\SIS_ENTREGA\Sis_Entrega\Sis_Entrega\bin\Debug\Sis_Entrega.exe
+C:\Users\lucca\Downloads\SIS_ENTREGA\SIS_ENTREGA\Sis_Entrega\Sis_Entrega\bin\Debug\Sis_Entrega.pdb
+C:\Users\lucca\Downloads\SIS_ENTREGA\SIS_ENTREGA\Sis_Entrega\Sis_Entrega\obj\Debug\Sis_Entrega.csprojAssemblyReference.cache
+C:\Users\lucca\Downloads\SIS_ENTREGA\SIS_ENTREGA\Sis_Entrega\Sis_Entrega\obj\Debug\Sis_Entrega.frm_Cliente.resources
+C:\Users\lucca\Downloads\SIS_ENTREGA\SIS_ENTREGA\Sis_Entrega\Sis_Entrega\obj\Debug\Sis_Entrega.Form1.resources
+C:\Users\lucca\Downloads\SIS_ENTREGA\SIS_ENTREGA\Sis_Entrega\Sis_Entrega\obj\Debug\Sis_Entrega.frm_Produto.resources
+C:\Users\lucca\Downloads\SIS_ENTREGA\SIS_ENTREGA\Sis_Entrega\Sis_Entrega\obj\Debug\Sis_Entrega.Properties.Resources.resources
+C:\Users\lucca\Downloads\SIS_ENTREGA\SIS_ENTREGA\Sis_Entrega\Sis_Entrega\obj\Debug\Sis_Entrega.csproj.GenerateResource.cache
+C:\Users\lucca\Downloads\SIS_ENTREGA\SIS_ENTREGA\Sis_Entrega\Sis_Entrega\obj\Debug\Sis_Entrega.csproj.CoreCompileInputs.cache
+C:\Users\lucca\Downloads\SIS_ENTREGA\SIS_ENTREGA\Sis_Entrega\Sis_Entrega\obj\Debug\Sis_Entrega.exe
+C:\Users\lucca\Downloads\SIS_ENTREGA\SIS_ENTREGA\Sis_Entrega\Sis_Entrega\obj\Debug\Sis_Entrega.pdb
